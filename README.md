@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho como desenvolvedor Full-stack JavaScript.
 - 🌱 Estou estudando na Trybe.
-- 🏅 Meu Portifólio: [victorborzaquel.com](victorborzaquel.com)
+- 🏅 Meu Portifólio: [victorborzaquel.com](https://victorborzaquel.com/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
