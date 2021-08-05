@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div>
   <a href="https://github.com/VictorBorzaquel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBorzaquel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
