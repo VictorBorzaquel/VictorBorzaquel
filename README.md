@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+HTML         6 hrs 37 mins   ██████████████▓░░░░░░░░░░   58.29 % 
+JavaScript   2 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+CSS          1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+```
 <!--END_SECTION:waka-->
 
 <div>
