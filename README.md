@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##
+
+### Quanto tempo fiquei programando em cada tecnologia nos ultimos 7 Dias:
 <!--START_SECTION:waka-->
 ```text
 HTML         6 hrs 37 mins   ██████████████▓░░░░░░░░░░   58.29 % 
@@ -27,7 +30,11 @@ Markdown     20 mins         ▓░░░░░░░░░░░░░░░░
 JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
+Relatório gerado com: [WakaTime](https://wakatime.com/@VictorBorzaquel)
 
+##
+
+### Meu histórico de commits aqui no GitHub:
 <div>
   <a href="https://github.com/VictorBorzaquel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBorzaquel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -39,8 +46,8 @@ JSON         5 mins          ▒░░░░░░░░░░░░░░░░
   <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<!--  <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
   
