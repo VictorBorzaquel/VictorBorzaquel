@@ -65,3 +65,25 @@ Relatório gerado com: [WakaTime](https://wakatime.com/@VictorBorzaquel)
   <a href="https://api.whatsapp.com/send?phone=+5521985380146" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorborzaquel@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+# Meus Repositórios do GitHub
+
+Meus projetos, resumos e tarefas que vou colocando no GitHub listados por tópicos.
+
+## Projetos
+
+## Open-Source
+
+## Resumos
+
+## Cursos
+
+- [Harvard: CS50's Web Programming with Python and JavaScript](https://github.com/VictorBorzaquel/CS50_s-Web-Programming-with-Python-and-JavaScript)
+
+## Livros
+
+- [Eloquente Javascript - 2ª edição](https://github.com/VictorBorzaquel/Eloquente-Javascript)
+
+## Desafios
+
+- [App Idea](https://github.com/VictorBorzaquel/app-ideas)
