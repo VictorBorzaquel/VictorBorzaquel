@@ -66,6 +66,8 @@ Relatório gerado com: [WakaTime](https://wakatime.com/@VictorBorzaquel)
   <a href = "mailto:victorborzaquel@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 # Meus Repositórios do GitHub
 
 Meus projetos, resumos e tarefas que vou colocando no GitHub listados por tópicos.
