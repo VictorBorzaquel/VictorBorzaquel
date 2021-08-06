@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Hoje trabalho como desenvolvedor Full-stack JavaScript.
+- 🔭 Hoje trabalho como desenvolvedor Web Full-stack JavaScript.
 - 🌱 Estou estudando na Trybe.
 - 🏅 Meu Portifólio: [victorborzaquel.com](https://victorborzaquel.com/)
 <!--
@@ -36,10 +36,12 @@ Relatório gerado com: [WakaTime](https://wakatime.com/@VictorBorzaquel)
 
 ### Meu histórico de commits aqui no GitHub:
 <div>
-  <a href="https://github.com/VictorBorzaquel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBorzaquel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--  <a href="https://github.com/VictorBorzaquel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorBorzaquel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBorzaquel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+### Linguagens que estou utilizando:
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
