@@ -68,24 +68,6 @@ Relatório gerado com: [WakaTime](https://wakatime.com/@VictorBorzaquel)
 
 ##
 
-# Meus Repositórios do GitHub
+## Projetos que estou fazendo
 
-Meus projetos, resumos e tarefas que vou colocando no GitHub listados por tópicos.
-
-## Projetos
-
-## Open-Source
-
-## Resumos
-
-## Cursos
-
-- [Harvard: CS50's Web Programming with Python and JavaScript](https://github.com/VictorBorzaquel/CS50_s-Web-Programming-with-Python-and-JavaScript)
-
-## Livros
-
-- [Eloquente Javascript - 2ª edição](https://github.com/VictorBorzaquel/Eloquente-Javascript)
-
-## Desafios
-
-- [App Idea](https://github.com/VictorBorzaquel/app-ideas)
+## Meus Projetos Open-Source
