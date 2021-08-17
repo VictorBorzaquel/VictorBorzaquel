@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### Quanto tempo fiquei programando em cada tecnologia nos ultimos 7 Dias:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   36.62 % 
-CSS          6 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.66 % 
-HTML         2 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+CSS          6 hrs 5 mins    ████████▒░░░░░░░░░░░░░░░░   33.21 % 
+JavaScript   6 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   32.89 % 
+HTML         3 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 % 
 TypeScript   1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 Markdown     46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
