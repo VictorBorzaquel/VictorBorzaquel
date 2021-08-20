@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 ### Quanto tempo fiquei programando em cada tecnologia nos ultimos 7 Dias:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   44.98 % 
-CSS          6 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.55 % 
-HTML         4 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Markdown     1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-EJS          1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+JavaScript   16 hrs 44 mins  ██████████████░░░░░░░░░░░   55.62 % 
+CSS          5 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 % 
+HTML         3 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+EJS          2 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Markdown     56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 <!--END_SECTION:waka-->
 Relatório gerado com: [WakaTime](https://wakatime.com/@VictorBorzaquel)
