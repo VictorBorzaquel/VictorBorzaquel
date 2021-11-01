@@ -5,6 +5,9 @@
 
 ##
 
+### My WakaTime
+
+https://wakatime.com/@VictorBorzaquel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBorzaquel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -37,3 +40,4 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
+
