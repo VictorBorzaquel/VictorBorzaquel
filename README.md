@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍🎓 I Work in the Educational field.
+- 🧑‍🎓 I am Victor Borzaquel.
 - 🔭 React Native Developer.
 
 ##
