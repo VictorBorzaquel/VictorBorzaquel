@@ -41,10 +41,10 @@
 
 ### Desafio App diario React Native
 
-Vou criar todos os 88 aplicativos propostos no repositório AppIdeas, e para isso estou criando 1 aplicativo todos os dias.  
+Vou criar 88 aplicativos, e para isso estou criando 1 aplicativo todos os dias.  
 [Link do Repositório](https://github.com/VictorBorzaquel/DesafioAppDiarioReactNative)  
 <a href="https://github.com/VictorBorzaquel/DesafioAppDiarioReactNative">
-  <img src="https://raw.githubusercontent.com/florinpop17/app-ideas/master/app-ideas.png" width="400">
+  <img src="https://raw.githubusercontent.com/VictorBorzaquel/DesafioAppDiarioReactNative/main/assets/DesafioAppDiarioReactNative.png" width="400">
 </a>
 
 ##
