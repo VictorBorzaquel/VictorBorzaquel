@@ -41,7 +41,7 @@
 
 ### Desafio App diario React Native
 
-Vou criar todos os 88 aplicativos propostos no repositório AppIdeas, e para isso estou criando 1 aplicativo todos os dia.  
+Vou criar todos os 88 aplicativos propostos no repositório AppIdeas, e para isso estou criando 1 aplicativo todos os dias.  
 [Link do Repositório](https://github.com/VictorBorzaquel/DesafioAppDiarioReactNative)  
 <a href="https://github.com/VictorBorzaquel/DesafioAppDiarioReactNative">
   <img src="https://raw.githubusercontent.com/florinpop17/app-ideas/master/app-ideas.png" width="400">
@@ -55,9 +55,3 @@ Aplicativo de finanças pessoais desenvolvido em React Native
 <a href="https://github.com/VictorBorzaquel/myfinances">
   <img src="https://user-images.githubusercontent.com/73085387/139689681-a286fd1d-7237-4eb5-a802-1f8de22410cb.png" width="400" target="_blank">
 </a>
-
-##
-
-## Projetos que fiz em Cursos
-
-### 
