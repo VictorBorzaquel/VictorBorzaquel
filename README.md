@@ -41,7 +41,6 @@
 
 ### Desafio App diario React Native
 
-Vou criar 88 aplicativos, e para isso estou criando 1 aplicativo todos os dias.  
 [Link do Repositório](https://github.com/VictorBorzaquel/DesafioAppDiarioReactNative)  
 <a href="https://github.com/VictorBorzaquel/DesafioAppDiarioReactNative">
   <img src="https://raw.githubusercontent.com/VictorBorzaquel/DesafioAppDiarioReactNative/main/assets/DesafioAppDiarioReactNative.png" width="400">
@@ -50,7 +49,7 @@ Vou criar 88 aplicativos, e para isso estou criando 1 aplicativo todos os dias.
 ##
 
 ### My Finances
-Aplicativo de finanças pessoais desenvolvido em React Native  
+
 [Link do Repositório](https://github.com/VictorBorzaquel/myfinances)  
 <a href="https://github.com/VictorBorzaquel/myfinances">
   <img src="https://user-images.githubusercontent.com/73085387/139689681-a286fd1d-7237-4eb5-a802-1f8de22410cb.png" width="400" target="_blank">
