@@ -3,7 +3,6 @@
 
 - 🧑‍🎓 Eu sou o Victor Borzaquel.
 - 🔭 Atualmente estou utilizando o React Native para desenvolver aplicativos mobile.
-- ❤️ Sou apaixonado em criar automações para facilitar a vida das pessoas.
 
 <!-- ## -->
 
