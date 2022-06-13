@@ -2,7 +2,8 @@
 
 
 - 🧑‍🎓 Eu sou o Victor Borzaquel.
-- 🔭 Atualmente estou utilizando o React Native para desenvolver aplicativos mobile.
+- 💻 Dev Front-end
+- 🔭 Atualmente estou utilizando o React para desenvolver sites e React Native para desenvolver aplicativos mobile.
 
 <!-- ## -->
 
@@ -35,7 +36,10 @@
 </div>
 
 ## 
-
+<!--   
+# Portifolio
+[Link](victorborzaquel.github.io)
+ -->
 # Meus Projetos Open Source
 
 ### Desafio App diario React Native
@@ -53,3 +57,21 @@
 <a href="https://github.com/VictorBorzaquel/myfinances">
   <img src="https://user-images.githubusercontent.com/73085387/139689681-a286fd1d-7237-4eb5-a802-1f8de22410cb.png" width="400" target="_blank">
 </a>
+
+## WEB
+- [Estacionamento TS](https://github.com/victorborzaquel/estacionamentoTS)
+- [TODO List JS](https://github.com/victorborzaquel/todo-list-javascript)
+- [Site Menu Mobile](https://github.com/victorborzaquel/site-menu-mobile)
+- [Clone Instagram Login Page](https://github.com/victorborzaquel/clone-instagram-login-page)
+
+## Mobile
+
+## Server
+
+## Cursos
+- [RocketSeat Discover](https://github.com/victorborzaquel/rocketseat-discover/tree/main/guias_estelares)
+- [Introdução à Complexidade de Algoritmos](https://github.com/victorborzaquel/introducao-a-complexidade-de-algoritmos)
+- [CSS Grid e Flexbox Layout](https://github.com/victorborzaquel/css-grid-layout-e-flexbox)
+- [Eloquent JavaScript](https://github.com/victorborzaquel/eloquente-javascript)
+- [DIO ReactJS](https://github.com/victorborzaquel/dio-reactjs)
+
