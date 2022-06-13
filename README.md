@@ -59,6 +59,10 @@
 </a>
 
 ## WEB
+- [Jobs Calc](https://github.com/victorborzaquel/jobscalc)
+- [DT Money](https://github.com/victorborzaquel/dtmoney)
+- [Doom Fire Algorithm](https://github.com/victorborzaquel/doom-fire-algorithm)
+- [Dev Finances](https://github.com/victorborzaquel/devfinances)
 - [Estacionamento TS](https://github.com/victorborzaquel/estacionamentoTS)
 - [TODO List JS](https://github.com/victorborzaquel/todo-list-javascript)
 - [Site Menu Mobile](https://github.com/victorborzaquel/site-menu-mobile)
