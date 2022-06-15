@@ -69,8 +69,10 @@
 - [Clone Instagram Login Page](https://github.com/victorborzaquel/clone-instagram-login-page)
 
 ## Mobile
-
-## Server
+- [RentX](https://github.com/victorborzaquel/rentx)
+- [Fake Store App](https://github.com/victorborzaquel/fakestoreapp)
+- [Save Pass](https://github.com/victorborzaquel/savepass)
+- [Go Finances](https://github.com/victorborzaquel/gofinances)
 
 ## Cursos
 - [RocketSeat Discover](https://github.com/victorborzaquel/rocketseat-discover/tree/main/guias_estelares)
