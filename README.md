@@ -2,7 +2,7 @@
 
 
 - 🧑‍🎓 Eu sou o Victor Borzaquel.
-- 💻 Dev QA Tester.
+- 💻 Tester / Analista de Qualidade de Software (QA) Jr.
 - 🔭 Atualmente estou utilizando o Selenium, Rest Assured, Appium e JMeter para desenvolver testes exploratórios e automatomatizados.
 
 <!-- ## -->
