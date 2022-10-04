@@ -2,7 +2,7 @@
 
 
 - 🧑‍🎓 Eu sou o Victor Borzaquel.
-- 💻 Analista de Testes e Qualidade se Software (QA) Jr.
+- 💻 Analista de Testes e Qualidade se Software (QA).
 - 🔭 Estou utilizando o Selenium, Rest Assured, Appium e JMeter para desenvolver testes exploratórios e automatomatizados.
 - 🧑‍💼 Atualmente estou trabalhando como Freelancer na uTest.
 
